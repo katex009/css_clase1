@@ -3,6 +3,27 @@
 } */
 /* todo el body estara de el color */
 
+/* selector a partir de una etiqueta */
 h2 {
-    color: blue;
+    color: red;
+}
+
+/* selector a partir de una class */
+.texto-verde {
+    color: green;
+}
+
+footer {
+    color: pink;
+}
+
+/* selector a partir de un id */
+#parrafo-rosa {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+/* selector a partir de etiquetas combinadas*/
+header p {
+    color: aqua;
 }
